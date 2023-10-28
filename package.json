@@ -1,0 +1,24 @@
+{
+  "name": "node_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himanikuraware/NODE_TYPESCRIPT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Himanikuraware/NODE_TYPESCRIPT/issues"
+  },
+  "homepage": "https://github.com/Himanikuraware/NODE_TYPESCRIPT#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "typescript": "^5.2.2"
+  }
+}
