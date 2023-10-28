@@ -1,6 +1,8 @@
 import { Router } from 'express';
 
-const todos = [];
+import { Todo } from '../models/todo';
+
+const todos: Todo[] = [];
 
 const router = Router();
 
